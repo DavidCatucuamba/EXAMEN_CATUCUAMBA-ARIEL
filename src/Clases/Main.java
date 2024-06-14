@@ -84,6 +84,7 @@ public class Main {
         p5.MostrarInfoPasajero();
         p5.InformacionTickets();
         //2do
+        //ESO A SIDO TODO
 
     }
 }

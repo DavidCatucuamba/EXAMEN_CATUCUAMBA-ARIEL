@@ -83,5 +83,7 @@ public class Main {
         Pasajero p5=new Pasajero(1,"Quito-Riobamba",17.5,"Jimena","Melba");
         p5.MostrarInfoPasajero();
         p5.InformacionTickets();
+        //2do
+
     }
 }
